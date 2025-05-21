@@ -1,2 +1,7 @@
-This is  a source file.
-copying to destination file
+This is a new line.
+This is another new line.
+This line is appended.
+This line is also appended.
+Line 1
+Line 2
+Line 3
